@@ -1,4 +1,4 @@
-package safe_counter
+package helpers
 
 import (
 	"math/rand"
